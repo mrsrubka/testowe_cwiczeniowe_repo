@@ -1,0 +1,73 @@
+
+cd '/home/supervisor/Dokumenty/PL5/PS/watermark' 
+git init
+sudo apt-get install git
+git init
+git add *
+git add *.*
+git commit -m 'init commit'
+git config --global user.email "mr.SRUBKA@mail.ru"
+git config --global user.name "mrsrubka"
+git commit -m 'init commit'
+git status
+git push origin master
+git remote
+git remote add https://github.com/mrsrubka/watermark.git
+git push
+git push origin https://github.com/mrsrubka/watermark.git
+git remote add origin https://github.com/mrsrubka/watermark.git
+git push -u origin master
+git remote add origin https://github.com/mrsrubka/watermark.git
+git push -u origin master
+cd '/home/supervisor/Dokumenty/PL5/PS/watermark/python/2' 
+python script_with_functions
+python script_with_functions.py
+python script_with_functions
+python script_with_functions.py
+python
+python script_with_functions.py
+python script.py
+cd '/home/supervisor/Dokumenty/PL5/PS/watermark' 
+git add *
+git status
+git add
+git add .
+git add -A
+git commit -m "poprawiona wersja python - 2"
+git push -u master origin
+git push origin master
+cd '/home/supervisor/Dokumenty/PL5/PS/watermark/python/2' 
+python script.py
+cd '/home/supervisor/Dokumenty/PL5/PS/watermark/python/2' 
+python script.py
+cd '/home/supervisor/Dokumenty/PL5/PS/watermark/python/2' 
+python script.py
+cd ..
+cd 1
+python script.py
+python
+python script.py
+cd /home/supervisor/Dokumenty/PL5/PS/sprawko/1
+clear
+cd '/home/supervisor/Dokumenty/PL5/PS/watermark/python/1' 
+python script.py
+python
+python script.py
+cd /home/supervisor/Dokumenty/PL5/PS/sprawko/1
+clear
+ls
+cd '/home/supervisor/Dokumenty/PL5/PS/watermark/python/1' 
+python
+python script.py
+octave
+cd '/home/supervisor/Dokumenty/PL5/PS/watermark/python/1' 
+python script.py
+cd '/home/supervisor/Dokumenty/PL5/PS/watermark' 
+git add .
+git status
+git commit -m "Stan projektu opisany w sprawozdaniu nr 1"
+git push origin master
+cd /home/supervisor/Dokumenty/PL5/PS/sprawko/1
+clear
+cd '/home/supervisor/Dokumenty/PL5/ksep/lab' 
+gcc buzzer.c -o outcome

@@ -1,0 +1,294 @@
+htop
+cd '/home/supervisor/Dokumenty/PL5/PS/python_ploting' 
+python script.py
+pip install requests
+sudo pip install plotly
+python get-pip.py
+cd '/home/supervisor/Pobrane' 
+python get-pip.py
+cd '/home/supervisor/Dokumenty/PL5/PS/python_ploting' 
+python script.py
+sudo pip install plotly
+pip install -U setuptools
+sudo apt-get install python-pip
+cd '/home/supervisor/Dokumenty/PL5/PS/python_ploting' 
+python script.py
+sudo pip install plotly
+python script.py
+python -c "import plotly; plotly.tools.set_credentials_file(username='DemoAccount', api_key='lr1c37zw81')"
+python script.py
+pip install pyopencv
+sudo apt-get update
+sudo apt-get upgrade
+cd /Pobrane
+cd '/home/supervisor/Pobrane' 
+wget http://sourceforge.net/projects/opencvlibrary/files/opencv-unix/2.4.9/opencv-2.4.9.zip
+unzip opencv-2.4.9.zip
+cd opencv-2.4.9
+mkdir build
+cd build
+cmake -D WITH_TBB=ON -D BUILD_NEW_PYTHON_SUPPORT=ON -D WITH_V4L=ON -D INSTALL_C_EXAMPLES=ON -D INSTALL_PYTHON_EXAMPLES=ON -D BUILD_EXAMPLES=ON -D WITH_QT=ON -D WITH_OPENGL=ON -D WITH_VTK=ON ..
+sudo apt-get install cmake
+cmake -D WITH_TBB=ON -D BUILD_NEW_PYTHON_SUPPORT=ON -D WITH_V4L=ON -D INSTALL_C_EXAMPLES=ON -D INSTALL_PYTHON_EXAMPLES=ON -D BUILD_EXAMPLES=ON -D WITH_QT=ON -D WITH_OPENGL=ON -D WITH_VTK=ON ..
+make
+sudo make install
+sudo apt-get install qt
+cmake -D WITH_TBB=ON -D BUILD_NEW_PYTHON_SUPPORT=ON -D WITH_V4L=ON -D INSTALL_C_EXAMPLES=ON -D INSTALL_PYTHON_EXAMPLES=ON -D BUILD_EXAMPLES=ON -D WITH_QT=ON -D WITH_OPENGL=ON -D WITH_VTK=ON ..
+make
+sudo make install
+sudo gedit /etc/ld.so.conf.d/opencv.conf
+sudo ldconfig
+sudo gedit /etc/bash.bashrc
+cd '/home/supervisor/Dokumenty/PL5/PS/znak_wodny_python' 
+python script.py
+cd '/home/supervisor/Dokumenty/PL5/PS/znak_wodny_python' 
+python script.py
+pip install cv2
+pip install pyopencv
+sudo apt-get build-dep python-opencv
+pip install pyopencv
+pip install pyopencv2
+python script.py
+pip install cv2
+python import cv2
+import cv2
+python script.py
+cd '/usr/local/lib/python2.7/site-packages'
+python
+sudo apt-get install cmake checkinstall
+sudo ./opencv.sh
+cd '/home/supervisor/Dokumenty/PL5/PS/znak_wodny_python' 
+python script2.py
+sudo nano /etc/bash.bashrc
+cd '/home/supervisor/Dokumenty/PL5/PS/znak_wodny_python' python script.py
+python
+cd '/home/supervisor/Dokumenty/PL5/PS/znak_wodny_python' 
+python script.py
+cd ~/OpenCV-2.4.9/
+pwd
+python script2.py
+cd cd '/home/supervisor/Pobrane/opencv-2.4.9/samples/python' 
+cd '/home/supervisor/Pobrane/opencv-2.4.9/samples/python' 
+python facedetect.py
+cd '/home/supervisor/Dokumenty/PL5/PS/znak_wodny_python' 
+python script.py
+cd '/etc/opencv-2.4.9/samples/python' cd '/etc/opencv-2.4.9/samples/c' 
+chmod +x build_all.sh
+cd '/etc/opencv-2.4.9/samples/c' 
+chmod +x build_all.sh
+sudo chmod +x build_all.sh
+./build_all.sh
+python '/etc/opencv-2.4.9/samples/python2/turing.py' 
+sudo ./opencv.sh
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt-get install build-essential libgtk2.0-dev libjpeg-dev libtiff4-dev libjasper-dev libopenexr-dev cmake python-dev python-numpy python-tk libtbb-dev libeigen3-dev yasm libfaac-dev libopencore-amrnb-dev libopencore-amrwb-dev libtheora-dev libvorbis-dev libxvidcore-dev libx264-dev libqt4-dev libqt4-opengl-dev sphinx-common texlive-latex-extra libv4l-dev libdc1394-22-dev libavcodec-dev libavformat-dev libswscale-dev default-jdk ant libvtk5-qt4-dev
+cd ~
+ls
+wget http://sourceforge.net/projects/opencvlibrary/files/opencv-unix/2.4.9/opencv-2.4.9.zip
+unzip opencv-2.4.9.zip
+cd opencv-2.4.9
+mkdir build
+cd build
+cmake -D WITH_TBB=ON -D BUILD_NEW_PYTHON_SUPPORT=ON -D WITH_V4L=ON -D INSTALL_C_EXAMPLES=ON -D INSTALL_PYTHON_EXAMPLES=ON -D BUILD_EXAMPLES=ON -D WITH_QT=ON -D WITH_OPENGL=ON -D WITH_VTK=ON ..
+make
+make install
+sudo make install
+python
+cd '/home/supervisor/Dokumenty/PL5/PS/znak_wodny_python' 
+python script.py
+cd '/home/supervisor/Dokumenty/PL5/PS/znak_wodny_python' 
+python script2.py
+python script.py
+alg.py
+python alg.py
+python script.py
+python alg.py
+python script.py
+cd '/home/supervisor/Dokumenty/PL5/PS/znak_wodny_octave' 
+octave
+cd '/home/supervisor/Dokumenty/PL5/PS/znak_wodny_python' 
+python script.py
+cd '/home/supervisor/Dokumenty/PL5/PS/znak_wodny_python' 
+python script.py
+python
+cd '/home/supervisor/Dokumenty/PL5/komp/test1' 
+avr-gcc
+sudo apt-get install gcc-avr
+avr-gcc main.c HD44780.c dallas_one_wire.c crc8.c -o outcome
+cd '/home/supervisor/Dokumenty/PL5/ksep/lab/asm_on_linux' 
+sudo apt-get install avra
+avra asm.asm
+cd /home/supervisor/Dokumenty/PL5/ue/lab/cw1
+clear
+cd /home/supervisor/Dokumenty/PL5/ue/lab/cw1
+clear
+cd /tmp
+clear
+cd /home/supervisor/Dokumenty/PL5/ue/lab/cw1
+clear
+sudo apt-get upgrade kile
+sudo apt-get instal tetex-base tetex-bin tetex-extra
+sudo apt-get install tetex-base tetex-bin tetex-extra
+sudo apt-get install texlive
+sudo apt-get install texlive-lang-polish
+cd /home/supervisor/Dokumenty/PL5/mik/cw1
+clear
+cd /home/supervisor/Dokumenty/PL5/mik/cw2
+clear
+cd /home/supervisor/Dokumenty/PL5/mik/cw1
+clear
+cd /home/supervisor/Dokumenty/PL5/mik/cw2
+clear
+cd /home/supervisor/Dokumenty/PL5/mik/cw3
+clear
+cd /home/supervisor/Dokumenty/PL5/mik/cw1
+clear
+cd /home/supervisor/Dokumenty/PL5/mik/cw3
+clear
+cd /home/supervisor/Dokumenty/PL5/mik/cw2
+clear
+cd /home/supervisor/Dokumenty/PL5/mik/cw1
+clear
+cd /home/supervisor/Dokumenty/PL5/mik/cw3
+clear
+cd /home/supervisor/Dokumenty/PL5/mik/cw2
+clear
+cd /home/supervisor/Dokumenty/PL5/mik/cw1
+clear
+cd /home/supervisor/Dokumenty/PL5/mik/cw3
+clear
+cd '/home/supervisor/Dokumenty/PL5/PS/znak_wodny_python' 
+python script.py
+python
+python script.py
+cd '/home/supervisor/Dokumenty/PL5/PS/znak_wodny_python' 
+python znak_wodny.py
+cd '/home/supervisor/Dokumenty/PL5/PS/znak_wodny_python' 
+python znak_wodny.py
+cd /home/supervisor/Dokumenty/PL5/mik/cw2
+clear
+cd /home/supervisor/Dokumenty/PL5/mik/cw1
+clear
+cd /home/supervisor/Dokumenty/PL5/mik/cw3
+clear
+cd /home/supervisor/Dokumenty/PL5/ue/lab/cw1
+clear
+cd /home/supervisor/Dokumenty/PL5/ue/lab/cw1
+clear
+cd /home/supervisor/Dokumenty/PL5/ue/lab/cw1
+clear
+cd /home/supervisor/Dokumenty/PL5/ue/lab/cw1
+clear
+cd '/home/supervisor/Dokumenty/PL5/PS/znak_wodny_python' 
+python script.py
+python
+python script.py
+cd /home/supervisor/Dokumenty/PL5/ue/lab/cw1
+clear
+cd '/home/supervisor/Dokumenty/PL5/PS/znak_wodny_python' 
+python script.py
+python
+python script.py
+pythpn
+python
+python script.py
+cd /home/supervisor/Dokumenty/PL5/ue/lab/cw1
+clear
+cd '/home/supervisor/Dokumenty/PL5/PS/watermark/python/2' 
+python script.py
+python
+python script.py
+python
+python script.py
+python
+python script.py
+python
+python script.py
+cd /home/supervisor/Dokumenty/PL5/ue/lab/cw1
+clear
+cd /home/supervisor/Dokumenty/PL5/mik/cw3
+clear
+cd /home/supervisor/Dokumenty/PL5/mik/cw3
+clear
+cd /home/supervisor/Dokumenty/PL5/mik/cw3
+clear
+cd /home/supervisor/Dokumenty/PL5/ue/lab/cw1
+clear
+cd '/home/supervisor/Dokumenty/PL5/PS/watermark/python/2' 
+python script.py
+python
+cd '/home/supervisor/Dokumenty/PL5/PS/watermark/python/1' 
+python script.py
+cd '/home/supervisor/Dokumenty/PL5/PS/watermark' 
+git init
+sudo apt-get install git
+git init
+git add *
+git add *.*
+git commit -m 'init commit'
+git config --global user.email "mr.SRUBKA@mail.ru"
+git config --global user.name "mrsrubka"
+git commit -m 'init commit'
+git status
+git push origin master
+git remote
+git remote add https://github.com/mrsrubka/watermark.git
+git push
+git push origin https://github.com/mrsrubka/watermark.git
+git remote add origin https://github.com/mrsrubka/watermark.git
+git push -u origin master
+git remote add origin https://github.com/mrsrubka/watermark.git
+git push -u origin master
+cd '/home/supervisor/Dokumenty/PL5/PS/watermark/python/2' 
+python script_with_functions
+python script_with_functions.py
+python script_with_functions
+python script_with_functions.py
+python
+python script_with_functions.py
+python script.py
+cd '/home/supervisor/Dokumenty/PL5/PS/watermark' 
+git add *
+git status
+git add
+git add .
+git add -A
+git commit -m "poprawiona wersja python - 2"
+git push -u master origin
+git push origin master
+cd '/home/supervisor/Dokumenty/PL5/PS/watermark/python/2' 
+python script.py
+cd '/home/supervisor/Dokumenty/PL5/PS/watermark/python/2' 
+python script.py
+cd '/home/supervisor/Dokumenty/PL5/PS/watermark/python/2' 
+python script.py
+cd ..
+cd 1
+python script.py
+python
+python script.py
+cd /home/supervisor/Dokumenty/PL5/PS/sprawko/1
+clear
+cd '/home/supervisor/Dokumenty/PL5/PS/watermark/python/1' 
+python script.py
+python
+python script.py
+cd /home/supervisor/Dokumenty/PL5/PS/sprawko/1
+clear
+ls
+cd '/home/supervisor/Dokumenty/PL5/PS/watermark/python/1' 
+python
+python script.py
+octave
+cd '/home/supervisor/Dokumenty/PL5/PS/watermark/python/1' 
+python script.py
+cd '/home/supervisor/Dokumenty/PL5/PS/watermark' 
+git add .
+git status
+git commit -m "Stan projektu opisany w sprawozdaniu nr 1"
+git push origin master
+cd /home/supervisor/Dokumenty/PL5/PS/sprawko/1
+clear
+cd '/home/supervisor/Dokumenty/PL5/ksep/lab' 
+gcc buzzer.c -o outcome
